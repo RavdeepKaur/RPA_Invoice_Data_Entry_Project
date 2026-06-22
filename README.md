@@ -30,7 +30,6 @@ Accounts payable teams often receive invoices as PDFs and manually copy invoice 
 - `build_invoice_tracker.py` - Builds the Excel tracker.
 - `run_project.ps1` - Runs the full workflow from PowerShell.
 - `PAD_Flow_Steps.md` - Explains how the same workflow maps to Power Automate Desktop.
-- `Interview_Talking_Points.md` - Interview explanation for RPA-related roles.
 - `Invoice_Data_Entry_Tracker.xlsx` - Final Excel output.
 
 ## How To Run
