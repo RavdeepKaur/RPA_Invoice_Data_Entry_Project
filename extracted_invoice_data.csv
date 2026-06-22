@@ -1,0 +1,5 @@
+source_file,invoice_no,vendor,invoice_date,due_date,po_number,subtotal,tax,total,validation_status,validation_notes
+INV-1001.pdf,INV-1001,Maple Office Supplies,2026-06-10,2026-07-10,PO-88421,842.5,109.53,952.03,Ready for Entry,All required fields extracted and total validated
+INV-1002.pdf,INV-1002,Northstar IT Services,2026-06-12,2026-07-12,PO-88444,1250.0,162.5,1412.5,Ready for Entry,All required fields extracted and total validated
+INV-1003.pdf,INV-1003,Learning Labs Canada,2026-06-14,2026-07-14,PO-88472,675.25,87.78,763.03,Ready for Entry,All required fields extracted and total validated
+INV-1004.pdf,INV-1004,Cedar Cloud Hosting,2026-06-16,2026-07-16,PO-88501,2100.0,273.0,2373.0,Ready for Entry,All required fields extracted and total validated
