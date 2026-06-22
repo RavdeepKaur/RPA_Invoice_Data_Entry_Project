@@ -14,7 +14,7 @@ Flow name: `Automated Invoice Data Entry`
 10. Mark status as `Ready for Entry` or `Needs Review`.
 11. Save and close Excel.
 
-## RPA Concepts Demonstrated
+## RPA Concepts Covered
 
 - Folder monitoring
 - PDF text extraction

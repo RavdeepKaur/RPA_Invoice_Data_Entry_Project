@@ -60,7 +60,7 @@ def draw_invoice(path, row):
 
     y -= 24
     c.setFont("Helvetica-Oblique", 9)
-    c.drawString(72, y, "Synthetic invoice created for an RPA portfolio demonstration.")
+    c.drawString(72, y, "Sample invoice created for workflow testing and validation.")
     c.save()
 
 

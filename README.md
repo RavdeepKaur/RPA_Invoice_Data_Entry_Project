@@ -1,6 +1,6 @@
 # Automated Invoice Data Entry RPA Project
 
-This portfolio project demonstrates an RPA-style workflow for invoice processing. It reads invoice PDFs, extracts key invoice fields, validates totals, writes clean records into Excel, and flags exceptions for human review.
+This project shows an RPA-style workflow for invoice processing. It reads invoice PDFs, extracts key invoice fields, validates totals, writes clean records into Excel, and flags exceptions for human review.
 
 ## Business Problem
 
@@ -25,7 +25,7 @@ Accounts payable teams often receive invoices as PDFs and manually copy invoice 
 
 ## Project Files
 
-- `create_sample_invoices.py` - Generates synthetic invoice PDFs.
+- `create_sample_invoices.py` - Generates sample invoice PDFs.
 - `extract_invoice_data.py` - Extracts and validates invoice data.
 - `build_invoice_tracker.py` - Builds the Excel tracker.
 - `run_project.ps1` - Runs the full workflow from PowerShell.
@@ -55,7 +55,7 @@ Then open:
 Invoice_Data_Entry_Tracker.xlsx
 ```
 
-## RPA Concepts Demonstrated
+## RPA Concepts Covered
 
 - Process analysis
 - PDF data extraction
@@ -66,4 +66,6 @@ Invoice_Data_Entry_Tracker.xlsx
 - Human-in-the-loop review
 - Documentation for maintainability
 
+## Interview Summary
 
+I built an invoice data-entry automation project that reads invoice PDFs, extracts key fields, validates totals, writes the records into Excel, and flags exceptions for review. The workflow reflects process analysis, automation logic, data validation, exception handling, Excel output, and clear documentation.
