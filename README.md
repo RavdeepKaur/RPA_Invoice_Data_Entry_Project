@@ -66,6 +66,4 @@ Invoice_Data_Entry_Tracker.xlsx
 - Human-in-the-loop review
 - Documentation for maintainability
 
-## Interview Summary
 
-I built an invoice data-entry automation project to practice RPA concepts. The workflow reads invoice PDFs, extracts key fields, validates totals, writes the records into Excel, and flags exceptions for review. It demonstrates process analysis, automation logic, data validation, exception handling, Excel output, and documentation.
